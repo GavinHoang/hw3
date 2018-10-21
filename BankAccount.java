@@ -1,4 +1,4 @@
-package hw3;
+//package hw3;
 
 public class BankAccount implements Comparable<BankAccount>{
 	private int accountNumber;
